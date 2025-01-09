@@ -1,0 +1,4 @@
+Mean Squared Error: 21.89
+R-squared: 0.88
+
+This suggests the model does a good job of predicting housing prices with 88% of the variance in price explained by the model.
