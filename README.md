@@ -12,3 +12,5 @@ This project will involve:
 
 Let's use a real-world dataset like the Boston Housing Dataset, which is available in the sklearn library, or you can use a similar dataset (e.g., Kaggle's housing dataset).
 
+# Conclusion
+This project demonstrated a basic data analysis workflow involving the analysis and prediction of housing prices. The steps included data exploration, preprocessing, model building, and evaluation.
